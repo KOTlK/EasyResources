@@ -1,0 +1,16 @@
+{
+    "name": "EasySpawning.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1722f486f41d08e45bb6cccfcea0ec6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

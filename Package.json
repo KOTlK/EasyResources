@@ -1,0 +1,19 @@
+{
+  "name": "easyspawning",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "unityRelease": "5f1",
+  "displayName": "EasySpawning",
+  "description": "Provides easy way to spawn resources",
+  "category": "2D",
+  "samples": [
+    {}
+  ],
+  "type": "tool",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}
